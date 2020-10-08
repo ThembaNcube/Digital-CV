@@ -1,13 +1,9 @@
-
-
 //var name = document.getElementById("name");
 //var email = document.getElementById('email');
 //var message = document.getElementById('emailText');
-const form = document.getElementById('contact');
+//const form = document.getElementById('contact');
 
-
-
-let about = "Hi my name is Thembalethu Ncube, Im an IT student at the North West University and I am currently doing my 3rd year. My main interest is to be part of a programme that stems from its impressive reputation and wide range of experience that I may gain.<br> I have a strong work ethic and passion that would make me a valuable asset to any job offered";
+//let about = "Hi my name is Thembalethu Ncube, Im an IT student at the North West University and I am currently doing my 3rd year. My main interest is to be part of a programme that stems from its impressive reputation and wide range of experience that I may gain.<br> I have a strong work ethic and passion that would make me a valuable asset to any job offered";
 
 
 $(document).ready(function() {
